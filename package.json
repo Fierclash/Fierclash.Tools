@@ -1,0 +1,18 @@
+{
+	"name": "com.fierclash.fierclash.tools",
+	"version": "0.1.0",
+	"displayName": "Fierclash Tools",
+	"description": "Personal package for Unity Editor Tools.",
+	"unity": "2021.3",
+	"unityRelease": "15f1",
+	"documentationUrl": "",
+	"changelogUrl": "",
+	"licensesUrl": "https://mit-license.org",
+	"dependencies": { },
+	"keywords": [],
+	"author": {
+		"name": "Fierclash",
+		"email": "fierclash@gmail.com",
+		"url": "https://unity.com"
+	}
+}
