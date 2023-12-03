@@ -1,6 +1,6 @@
 {
 	"name": "com.fierclash.fierclash.tools",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"displayName": "Fierclash Tools",
 	"description": "Personal package for Unity Editor Tools.",
 	"unity": "2021.3",
