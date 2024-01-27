@@ -39,7 +39,7 @@ namespace Fierclash.Tools
 
 			// Create and write as text file
 			if (!Directory.Exists(assetPath)) Directory.CreateDirectory(assetPath);
-			string filePath = string.Format("{0}/{1}{2}-{3}.txt",
+			string filePath = string.Format("{0}/{1}{2}-{3}.csv",
 											assetPath, 
 											assetPrefix, 
 											docID, 
@@ -63,7 +63,7 @@ namespace Fierclash.Tools
 
 				// Create and write as text file
 				if (!Directory.Exists(assetPath)) Directory.CreateDirectory(assetPath);
-				string filePath = string.Format("{0}/{1}{2}.txt",
+				string filePath = string.Format("{0}/{1}{2}.csv",
 												assetPath,
 												assetPrefix,
 												sheetName);
